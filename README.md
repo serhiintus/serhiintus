@@ -16,10 +16,10 @@
 
 ## 💡 Projects
 
-- 🎮 [**Little Professor**](https://github.com/serhiintus/Little-Professor.git)  
+- 🎮 [**Little Professor Emulator**](https://github.com/serhiintus/Little-Professor.git)  
   A PC emulator of the classic math toy that challenges users with math problems like a reverse calculator.
 
-- 📊 [**MSA Automation App**](https://github.com/serhiintus/MSA_project.git)  
+- 📊 [**MSA Automation Tool**](https://github.com/serhiintus/MSA_project.git)  
   A desktop tool that automates raw data processing from AOI machines for Measurement Systems Analysis (MSA), improving speed and reducing errors.
 
 - 🔢 [**Prime Numbers Generator**](https://github.com/serhiintus/SPOJ_prime_generator.git)  
